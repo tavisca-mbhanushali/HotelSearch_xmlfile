@@ -1,0 +1,8 @@
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\HotelResponseService\bin\HotelResponseService.dll.config
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\HotelResponseService\bin\HotelResponseService.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\HotelResponseService\bin\HotelResponseService.pdb
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\HotelResponseService\bin\XmlToClass.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\HotelResponseService\bin\XmlToClass.pdb
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\HotelResponseService\obj\Debug\HotelResponseService.csprojResolveAssemblyReference.cache
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\HotelResponseService\obj\Debug\HotelResponseService.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\HotelResponseService\obj\Debug\HotelResponseService.pdb

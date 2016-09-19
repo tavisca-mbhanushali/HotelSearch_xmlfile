@@ -1,0 +1,8 @@
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\XmlToClass\bin\Debug\XmlToClass.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\XmlToClass\bin\Debug\XmlToClass.pdb
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\XmlToClass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\XmlToClass\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\XmlToClass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\XmlToClass\obj\Debug\XmlToClass.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\XmlToClass\obj\Debug\XmlToClass.pdb
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\XmlToClass\obj\Debug\XmlToClass.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\bin\Debug\XmlToClass.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\bin\Debug\XmlToClass.pdb
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\XmlToClass\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

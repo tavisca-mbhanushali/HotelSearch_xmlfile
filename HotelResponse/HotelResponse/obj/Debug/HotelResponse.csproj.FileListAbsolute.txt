@@ -1,0 +1,6 @@
+c:\users\mbhanushali\documents\visual studio 2015\Projects\HotelResponse\HotelResponse\bin\Debug\HotelResponseClient.exe.config
+c:\users\mbhanushali\documents\visual studio 2015\Projects\HotelResponse\HotelResponse\bin\Debug\HotelResponseClient.exe
+c:\users\mbhanushali\documents\visual studio 2015\Projects\HotelResponse\HotelResponse\bin\Debug\HotelResponseClient.pdb
+c:\users\mbhanushali\documents\visual studio 2015\Projects\HotelResponse\HotelResponse\obj\Debug\HotelResponse.csprojResolveAssemblyReference.cache
+c:\users\mbhanushali\documents\visual studio 2015\Projects\HotelResponse\HotelResponse\obj\Debug\HotelResponseClient.exe
+c:\users\mbhanushali\documents\visual studio 2015\Projects\HotelResponse\HotelResponse\obj\Debug\HotelResponseClient.pdb
